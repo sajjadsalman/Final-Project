@@ -62,12 +62,12 @@ nav ul li a:hover {
 }
 
 
-.footer {
-    position: relative;
-    top: 63.25rem;
-    width: 100%;
-    height: 3rem;
+#footer {
     background:  rgba(127, 71, 130, 0.6);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 3rem;      
 }
 .note {
     position: relative;
